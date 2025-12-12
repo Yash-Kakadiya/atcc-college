@@ -1,0 +1,12 @@
+// single line comment
+#include <stdio.h>
+
+/* Multiline
+ comment */
+void main(){
+    printf("Hello World");
+
+    int const a=7; // inline comment
+
+    printf("%d",a/7);
+}
